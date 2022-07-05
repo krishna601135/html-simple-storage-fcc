@@ -1,0 +1,50 @@
+.heading {
+    text-align: center;
+    font-size: 45px;
+    text-decoration: underline;
+    color: blue;
+}
+
+.btn-Setting {
+    text-align: center;
+}
+
+.button {
+    color: black;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    background-color: orange;
+    border-width: 0px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.content {
+    font-size: 45px;
+    color: black;
+}
+
+.input-element {
+    height: 35px;
+    font-size: 25px;
+    width: 150px;
+}
+
+.result-value {
+    font-size: 34px;
+    font-family: "Roboto";
+    color: black;
+}
+
+.view-button {
+    color: white;
+    width: 100px;
+    height: 50px;
+    font-size: 18px;
+    background-color: green;
+    border-width: 0px;
+    border-radius: 10px;
+    padding-top: 10px;
+}
